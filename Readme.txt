@@ -1,3 +1,8 @@
+THIS IS A BACKUP REPOSITORY for testing purposes only. I also plan to use this for developing a map rotation chat voting plugin at some point.
+
+What follows is the GG2 readme.
+
+
 ----------------------------------------------------------
 GANG GARRISON 2
 ----------------------------------------------------------
